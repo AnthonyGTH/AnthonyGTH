@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @AnthonyGTH
-- 👀 I’m interested in solving problems and creating interesting algorithms...
+👋 Hello world! Nice to meet you! I’m @AnthonyGTH
 
-Hello world! Nice to meet you! 
+👀 I like to solve problems and create interesting algorithms...
+
+ 
